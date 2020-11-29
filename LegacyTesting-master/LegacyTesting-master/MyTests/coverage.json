@@ -1,0 +1,197 @@
+{
+  "SproutClass.dll": {
+    "C:\\Users\\johan\\source\\repos\\GDanielJ\\xUnit Course\\LegacyTesting-master\\LegacyTesting-master\\SproutClass\\Employee.cs": {
+      "SproutClass.Employee": {
+        "System.String SproutClass.Employee::get_FirstName()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String SproutClass.Employee::get_LastName()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 SproutClass.Employee::get_UniqueId()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 SproutClass.Employee::get_Salary()": {
+          "Lines": {
+            "8": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\johan\\source\\repos\\GDanielJ\\xUnit Course\\LegacyTesting-master\\LegacyTesting-master\\SproutClass\\EmployeeSalaryService.cs": {
+      "SproutClass.EmployeeSalaryService": {
+        "System.Collections.Generic.List`1<SproutClass.Employee> SproutClass.EmployeeSalaryService::GetEmployeesData()": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\johan\\source\\repos\\GDanielJ\\xUnit Course\\LegacyTesting-master\\LegacyTesting-master\\SproutClass\\EmployeeService.cs": {
+      "SproutClass.EmployeeService": {
+        "System.Collections.Generic.List`1<SproutClass.Employee> SproutClass.EmployeeService::GetEmployeesData()": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\johan\\source\\repos\\GDanielJ\\xUnit Course\\LegacyTesting-master\\LegacyTesting-master\\SproutClass\\Program.cs": {
+      "SproutClass.Program": {
+        "System.Void SproutClass.Program::Main(System.String[])": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "SproutMethod.dll": {
+    "C:\\Users\\johan\\source\\repos\\GDanielJ\\xUnit Course\\LegacyTesting-master\\LegacyTesting-master\\SproutMethod\\LegacyClass.cs": {
+      "SproutMethod.LegacyClass": {
+        "System.Void SproutMethod.LegacyClass::AppendDictionary(System.Collections.Generic.Dictionary`2<TKey,TValue>,System.Collections.Generic.Dictionary`2<TKey,TValue>)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": [
+            {
+              "Line": 12,
+              "Offset": 58,
+              "EndOffset": 20,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 12,
+              "Offset": 58,
+              "EndOffset": 60,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Collections.Generic.Dictionary`2<TKey,TValue> SproutMethod.LegacyClass::GetValidItems(System.Collections.Generic.Dictionary`2<TKey,TValue>,System.Collections.Generic.Dictionary`2<TKey,TValue>)": {
+          "Lines": {
+            "20": 1,
+            "21": 1,
+            "23": 9,
+            "24": 3,
+            "25": 3,
+            "26": 2,
+            "27": 3,
+            "28": 1,
+            "29": 1
+          },
+          "Branches": [
+            {
+              "Line": 23,
+              "Offset": 75,
+              "EndOffset": 17,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 25,
+              "Offset": 44,
+              "EndOffset": 46,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 25,
+              "Offset": 44,
+              "EndOffset": 67,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 23,
+              "Offset": 75,
+              "EndOffset": 77,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\johan\\source\\repos\\GDanielJ\\xUnit Course\\LegacyTesting-master\\LegacyTesting-master\\SproutMethod\\Program.cs": {
+      "SproutMethod.Program": {
+        "System.Void SproutMethod.Program::Main(System.String[])": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "12": 0,
+            "14": 0,
+            "15": 0,
+            "17": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0
+          },
+          "Branches": [
+            {
+              "Line": 19,
+              "Offset": 170,
+              "EndOffset": 112,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 19,
+              "Offset": 170,
+              "EndOffset": 172,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}
